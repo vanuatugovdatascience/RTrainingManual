@@ -2,15 +2,6 @@
 
 ---
 title: "Steps for Processing and Visualising Data"
-author: "Vanuatu National Statistics Office"
-date: "`r format(Sys.Date(), '%d %b %Y')`"
-output: 
-  html_document:
-    number_sections: true
-    toc: yes
-    toc_depth: '2'
-    toc_float: yes
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
