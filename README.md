@@ -1,7 +1,7 @@
 # RTrainingManual
 
 ---
-title: "Steps for Processing and Visualising Data"
+"Steps for Processing and Visualising Data"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
